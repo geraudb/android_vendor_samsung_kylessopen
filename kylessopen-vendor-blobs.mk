@@ -24,6 +24,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libc.so:system/lib/libc.so \
     vendor/samsung/kylessopen/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
+    vendor/samsung/kylessopen/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/samsung/kylessopen/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/samsung/kylessopen/proprietary/lib/libcaps.so:system/lib/libcaps.so \
     vendor/samsung/kylessopen/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/kylessopen/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so    
