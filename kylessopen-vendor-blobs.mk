@@ -94,6 +94,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/kylessopen/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/kylessopen/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/samsung/kylessopen/proprietary/bin/lpmkey:system/bin/lpmkey \
+    vendor/samsung/kylessopen/proprietary/bin/playlpm:system/bin/playlpm \
+    vendor/samsung/kylessopen/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
     vendor/samsung/kylessopen/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/samsung/kylessopen/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/samsung/kylessopen/proprietary/lib/libcm.so:system/lib/libcm.so \
@@ -114,9 +117,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/samsung/kylessopen/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/samsung/kylessopen/proprietary/lib/libqdp.so:system/lib/libqdp.so \
-    vendor/samsung/kylessopen/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
-    vendor/samsung/kylessopen/proprietary/bin/lpmkey:system/bin/lpmkey \
-    vendor/samsung/kylessopen/proprietary/bin/playlpm:system/bin/playlpm \
     vendor/samsung/kylessopen/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/samsung/kylessopen/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/samsung/kylessopen/proprietary/lib/libqueue.so:system/lib/libqueue.so \
