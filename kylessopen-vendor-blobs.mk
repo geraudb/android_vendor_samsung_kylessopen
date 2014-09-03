@@ -114,6 +114,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/samsung/kylessopen/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/samsung/kylessopen/proprietary/lib/libqdp.so:system/lib/libqdp.so \
+    vendor/samsung/kylessopen/proprietary/lib/libQmageDecoder.so:system/lib/libQmageDecoder.so \
+    vendor/samsung/kylessopen/proprietary/bin/lpmkey:system/bin/lpmkey \
+    vendor/samsung/kylessopen/proprietary/bin/playlpm:system/bin/playlpm \
     vendor/samsung/kylessopen/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/samsung/kylessopen/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/samsung/kylessopen/proprietary/lib/libqueue.so:system/lib/libqueue.so \
@@ -122,6 +125,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/samsung/kylessopen/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/samsung/kylessopen/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
+    vendor/samsung/kylessopen/proprietary/lib/libfmradio_jni.so:system/lib/libfmradio_jni.so \
     vendor/samsung/kylessopen/proprietary/lib/libacdapi_azi.so:system/lib/libacdapi_azi.so \
     vendor/samsung/kylessopen/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/samsung/kylessopen/proprietary/bin/hostapd:system/bin/hostapd \
